@@ -1,0 +1,25 @@
+content,label
+Laptop shuts down automatically after 15 minutes of use,Hardware Issues
+Unable to reset my account password via email,Account Issues
+Internet disconnects frequently while browsing,Connectivity Issues
+Charged twice for subscription renewal,Billing Issues
+App shows blank screen after login,Software Issues
+Phone battery drains overnight without usage,Battery Issues
+OTP not received during login attempt,Account Issues
+Printer connected but not printing documents,Hardware Issues
+Payment successful but service not activated,Billing Issues
+Bluetooth headphones not connecting to laptop,Connectivity Issues
+Document upload fails with error code 500,Software Issues
+System becomes unresponsive after installing update,Software Issues
+Unauthorized login attempt detected,Security Issues
+Unable to enable two-factor authentication,Security Issues
+Tablet not charging even with new cable,Battery Issues
+Slow WiFi speed even with strong signal,Connectivity Issues
+Invoice shows wrong billing amount,Billing Issues
+Keyboard keys not responding,Hardware Issues
+App crashing when opening camera,Software Issues
+Duplicate transactions appearing in account,Billing Issues
+Account locked after multiple login attempts,Account Issues
+Overheating issue while charging mobile,Battery Issues
+WiFi not showing available networks,Connectivity Issues
+Antivirus blocking safe application,Security Issues

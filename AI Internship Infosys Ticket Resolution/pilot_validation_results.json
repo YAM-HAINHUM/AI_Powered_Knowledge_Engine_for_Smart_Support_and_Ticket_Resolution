@@ -1,0 +1,61 @@
+{
+    "timestamp": "2025-09-07T20:44:31.363407",
+    "metrics": {
+        "accuracy": 0.125,
+        "total": 24,
+        "per_class": {
+            "Hardware Issues": {
+                "total": 3,
+                "correct": 0
+            },
+            "Performance Issues": {
+                "total": 0,
+                "correct": 0
+            },
+            "Account Issues": {
+                "total": 3,
+                "correct": 0
+            },
+            "Policy & Support": {
+                "total": 0,
+                "correct": 0
+            },
+            "Connectivity Issues": {
+                "total": 4,
+                "correct": 0
+            },
+            "Billing Issues": {
+                "total": 4,
+                "correct": 0
+            },
+            "Software Issues": {
+                "total": 4,
+                "correct": 0
+            },
+            "App & Software Issues": {
+                "total": 0,
+                "correct": 0
+            },
+            "Battery Issues": {
+                "total": 3,
+                "correct": 3
+            },
+            "None of the provided categories apply.": {
+                "total": 0,
+                "correct": 0
+            },
+            "Security Issues": {
+                "total": 3,
+                "correct": 0
+            },
+            "Network & Connectivity Issues": {
+                "total": 0,
+                "correct": 0
+            },
+            "There is no category in the knowledge base that addresses duplicate transactions.  Therefore, no category can be assigned based on the provided information.": {
+                "total": 0,
+                "correct": 0
+            }
+        }
+    }
+}
